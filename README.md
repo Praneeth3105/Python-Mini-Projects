@@ -153,7 +153,7 @@ TicTacToe.py
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Python-Mini-Projects.git
+https://github.com/Praneeth3105/Python-Mini-Projects.git
 ```
 
 Move into the project directory:
@@ -207,19 +207,19 @@ python NumberGuessing.py
 or:
 
 ```bash
-python RandomPasswordGenerator.py
+python RandomPassword.py
 ```
 
 For Snake Game:
 
 ```bash
-python SnakeGame.py
+python Snake.py
 ```
 
 For Rock Paper Scissors:
 
 ```bash
-python RockPaperScissors.py
+python RockPaperScissor.py
 ```
 
 For Tic-Tac-Toe:
@@ -235,8 +235,8 @@ Python-Mini-Projects/
 │
 ├── Calculator.py
 ├── NumberGuessing.py
-├── RandomPasswordGenerator.py
-├── RockPaperScissors.py
+├── RandomPassword.py
+├── RockPaperScissor.py
 ├── SnakeGame.py
 ├── TicTacToe.py
 ├── README.md
