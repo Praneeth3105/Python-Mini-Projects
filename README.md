@@ -55,7 +55,7 @@ A Python program that generates random and secure passwords.
 **File:**
 
 ```text
-RandomPasswordGenerator.py
+RandomPassword.py
 ```
 
 ---
@@ -75,7 +75,7 @@ The player competes against the computer.
 **File:**
 
 ```text
-RockPaperScissors.py
+RockPaperScissor.py
 ```
 
 ---
@@ -96,7 +96,7 @@ A classic Snake Game developed using Python and the **Pygame** library.
 **File:**
 
 ```text
-SnakeGame.py
+Snake.py
 ```
 
 ### 📦 Required Package
@@ -112,7 +112,7 @@ pip install pygame
 Then run:
 
 ```bash
-python SnakeGame.py
+python Snake.py
 ```
 
 ---
@@ -277,17 +277,3 @@ They are suitable for:
 * Learning game development basics
 * Building a beginner Python portfolio
 
-# 👨‍💻 Author
-
-**M Durga Praneeth**
-
-GitHub:
-`https://github.com/YOUR-USERNAME`
-
-# ⭐ Contributing
-
-Suggestions and improvements are welcome. Feel free to fork the repository and experiment with the projects.
-
-# 📄 License
-
-This project is open-source and available for educational and learning purposes.
