@@ -2,7 +2,6 @@ import random
 import string
 
 print("Random Password Generator")
-
 try:
     length = int(input("Enter desired password length: "))
 except ValueError:
