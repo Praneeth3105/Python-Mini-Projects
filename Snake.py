@@ -84,10 +84,8 @@ while not game_over:
 
         screen.fill(BLACK)
         pygame.draw.rect(screen, RED, [foodx, foody, snake_block, snake_block])
-
         snake_Head = [x1, y1]
         snake_List.append(snake_Head)
-
         if len(snake_List) > Length_of_snake:
             del snake_List[0]
 
