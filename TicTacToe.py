@@ -55,7 +55,6 @@ while True:
         if all(board[i][2 - i] == player for i in range(3)):
             return True
         return False
-
     def check_draw_inline():
         return all(cell != ' ' for row in board for cell in row)
     print_board_inline()
