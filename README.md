@@ -276,4 +276,3 @@ They are suitable for:
 * Logic building
 * Learning game development basics
 * Building a beginner Python portfolio
-
