@@ -4,7 +4,6 @@ import sys
 
 pygame.init()
 
-
 WIDTH, HEIGHT = 600, 400
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption('Snake Game')
@@ -109,7 +108,6 @@ while not game_over:
             foodx = round(random.randrange(0, WIDTH - snake_block) / 20.0) * 20.0
             foody = round(random.randrange(0, HEIGHT - snake_block) / 20.0) * 20.0
             Length_of_snake += 1
-
         clock.tick(snake_speed)
 
     while game_close and not game_over:
