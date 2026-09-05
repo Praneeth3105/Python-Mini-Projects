@@ -18,7 +18,6 @@ A simple calculator application that performs basic arithmetic operations such a
 ```text
 Calculator.py
 ```
-
 ---
 
 ### 2. 🔢 Number Guessing Game
