@@ -269,7 +269,6 @@ pygame
 These projects were created to improve practical Python programming skills and understand fundamental programming concepts through small, interactive applications.
 
 They are suitable for:
-
 * Python beginners
 * Programming practice
 * Logic building
